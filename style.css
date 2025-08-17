@@ -2,7 +2,7 @@ body {
     font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     margin: 0;
     padding: 0;
-    line-height:normal1.6;
+    line-height: 1.6;
     background-color: crimson;
     color: darkgray;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .navbar a {
-    color: antiquewhite;
+    color: crimson;
     text-decoration: none;
     font-weight: bold;
 }
@@ -43,7 +43,7 @@ header h1 {
     column-rule-color: darkred;
 }
 
-haeder p {
+header p {
     column-rule-color: dimgray;
 }
 
